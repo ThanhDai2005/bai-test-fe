@@ -18,7 +18,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React + TypeScript + Vite + Tailwind CSS
+- **Frontend**: React + TypeScript + Vite + Tailwind CSS + Shadcn.
 - **Icons**: lucide-react
 - **Email Service**: EmailJS (nhận form đặt lịch)
 
